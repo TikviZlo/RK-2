@@ -14,5 +14,3 @@ void bubble_sort(T* array, int size)
         }
     }
 }
-Footer
-© 2022 GitHub, Inc.
