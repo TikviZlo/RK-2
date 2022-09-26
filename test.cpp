@@ -1,6 +1,6 @@
 #include <iostream>
 #include <gtest/gtest.h>
-#include "../bubble_sort/bubble_sort.h"
+#include "../BubbleSort/BubbleSort.h"
 
 TEST(Sort, bubble)
 {
